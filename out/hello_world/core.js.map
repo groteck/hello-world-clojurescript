@@ -1,0 +1,7 @@
+{"version":3,
+ "file":"/home/groteck/projects/hello-world/out/hello_world/core.js",
+ "sources":["core.cljs"],
+ "lineCount":8,
+ "mappings":
+ ";AAAA;;AAEA,uBAAA,mBAAA,1CAAMA,qCAAKC,EAAEC,GACX,QAAGD,IAAEC;;AAEP,YAAA,ZAAGC,2BAA+B,+BAAA,EAAA,jCAACH",
+ "names":["hello-world.core/foo", "a", "b", "js/console"]}
